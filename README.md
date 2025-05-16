@@ -54,4 +54,4 @@ This application is patent-pending (USPTO Provisional Patent #ToBeFiled).
 ## 🤝 Licensing / Business Inquiries
 
 For licensing, customization, or enterprise deployment, contact:  
-📧 [your-email@example.com]  
+mkelsie.tinker@gmail.com
