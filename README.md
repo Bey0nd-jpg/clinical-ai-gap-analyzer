@@ -34,7 +34,7 @@ This tool is designed to help investigator sites, sponsors, and clinical teams:
 
 ## 🔐 Legal & IP Notice
 
-© 2025 [Your Name]. All rights reserved.
+© 2025 Kelsie Tinker. All rights reserved.
 
 This repository and its contents are protected under U.S. copyright law. Redistribution or commercial use is prohibited without explicit permission. 
 
