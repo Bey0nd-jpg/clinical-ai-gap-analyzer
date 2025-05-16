@@ -1,3 +1,5 @@
 fpdf
 streamlit
 pdfplumber
+pandas
+numpy
